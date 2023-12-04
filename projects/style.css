@@ -1,0 +1,34 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#about .row-text-center a {
+  color: rgb(49, 3, 255);
+  text-align: justify;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 15px;
+  padding: 10px 30px;
+  border: 5px solid rgb(250, 62, 62);
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+#projects .col-md-4 a img {
+  border-radius: 80%;
+  border: 3px solid #f8f8f8;
+  box-shadow: 0 15px 15px 0px rgba(0, 68, 255, 0.7);
+  width: 90%;
+  transition: transform 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+section {
+  padding-top: 5rem;
+}
